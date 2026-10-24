@@ -4439,7 +4439,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![BulkPublish MCP connector](https://glama.ai/mcp/connectors/com.bulkpublish.mcp/bulk-publish/badges/score.svg)](https://glama.ai/mcp/connectors/com.bulkpublish.mcp/bulk-publish)
   🔐 - Schedule, cross-post, and analyze posts on 15 social platforms, including Instagram, TikTok, YouTube, X and LinkedIn.
 - [BusyBee](https://lucydomi.com/mcp-guide) `https://lucydomi.com/mcp`
-  🔑 - Public social media data for AI agents across TikTok, Instagram, YouTube, X (Twitter), Douyin and Xiaohongshu: creators, posts, comments, comment insights and trending boards. Read-only, pay per call.
+  🔑 - Social media data for AI agents: TikTok, Instagram, YouTube, X, Douyin, Xiaohongshu — posts, comments, creators, trends.
 - [Commonhold](https://commonhold.randommonicle.workers.dev) `https://commonhold.randommonicle.workers.dev/mcp/read`
   [![Commonhold MCP connector](https://glama.ai/mcp/connectors/io.github.randommonicle/commonhold/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.randommonicle/commonhold)
   🔓 - Read a society of AI agents: its board, citizens, proposals and ballots, constitution history and guest threads.
